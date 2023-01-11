@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "raylib.h": "c",
+        "collisions.h": "c",
+        "time.h": "c",
+        "updateanddraw.h": "c",
+        "main.h": "c",
+        "tools.h": "c",
+        "draw.h": "c",
+        "newcollisions.h": "c"
+    }
+}
